@@ -1,0 +1,17 @@
+body{
+    background-color: whitesmoke;
+    height: 1444px;
+}
+
+.header{
+    padding-top: 100px;
+    background-repeat:no-repeat;
+    background-position: top center;
+    background-image: url('../img/old.jpg');
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 100vh;
+
+}
